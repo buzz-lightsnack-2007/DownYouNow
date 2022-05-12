@@ -1,6 +1,10 @@
 # DownYouNow
 **A 100% free YouTube video downloader**, powered by [YouTube-DL](https://urlzs.com/AqDFN) and [yt_dlp](https://urlzs.com/rkBHD). 
 
+**[▶ Run](https://colab.research.google.com/github/buzz-lightsnack-2007/DownYouNow/blob/main/DownYouNow.ipynb)**
+
+---
+
 > YouTube is an American **online video sharing and social media platform** headquartered in San Bruno, California. 
 
 — [Wikipedia](https://urlzs.com/h6dcq)
@@ -13,7 +17,7 @@ However, there's a problem with the former. While several of these sites have to
 And so: here comes DownYouNow. 
 
 ## What it does
-DownYouNow is a simple YouTube downloader powered by powered by `YouTube-DL` and `yt_dlp`. 
+DownYouNow is a simple YouTube downloader powered by powered by `YouTube-DL` and `yt_dlp`. [Run it here. ](https://colab.research.google.com/github/buzz-lightsnack-2007/DownYouNow/blob/main/DownYouNow.ipynb)
 
 Pass on a URL, set some output settings, and click the "Run" button beside it — it's that easy but detailed! And, after a few moments, your file will automatically get downloaded. 
 
